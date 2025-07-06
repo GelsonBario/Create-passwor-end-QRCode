@@ -36,17 +36,31 @@ Para manter tudo organizado, esta é a estrutura de pastas e arquivos que usarem
 
 .
 ├── .env
+
 ├── .gitignore
+
 ├── package.json
+
 └── src/
+
     ├── index.js
+    
     ├── prompts/
+    
     │   ├── prompt-main.js
+    
     │   └── prompt-qrcode.js
+    
     └── services/
+    
         ├── password/
+        
         │   ├── create.js
+        
         │   └── handle.js
+        
         └── qr-code/
+        
             ├── create.js
+            
             └── handle.js
