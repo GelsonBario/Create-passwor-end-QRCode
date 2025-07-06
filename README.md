@@ -34,7 +34,6 @@ Adicionado o arquivo .env para garantir que as variáveis de ambiente e segredos
 Estrutura de Arquivos Recomendada
 Para manter tudo organizado, esta é a estrutura de pastas e arquivos que usaremos:
 
-.
 ├── .env
 
 ├── .gitignore
